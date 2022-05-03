@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+#Anuj{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+#Anuj_photo{
+    width: 500px;
+    height: 500px;
+    border-radius: 500px;
+    
+}
+#periodictable{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
